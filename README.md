@@ -1,0 +1,9 @@
+- 👋 Hi, I’m João Lucas da Silva ...
+- 👀 I’m interested in buscar conhecimentos sobre programação e futuramente trabalhar com progamação...
+- 🌱 I’m currently learning HTML e CSS...
+- 📫 How to reach me , meu instagram é jao_l19.
+
+<!---
+JoaoLucas19/JoaoLucas19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
