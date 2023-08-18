@@ -1,9 +1,4 @@
-- 👋 Hi, I’m João Lucas...
-- 👀 I’m interested in buscar conhecimentos sobre programação e futuramente trabalhar com progamação...
-- 🌱 I’m currently learning HTML, CSS e JavaScript...
-- 📫 How to reach me , meu instagram é jao_l19.
-
-<!---
-JoaoLucas19/JoaoLucas19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Bem-vindo ao meu GitHub.
+Meu nome é João Lucas, sou apaixonado por tecnologia desde pequeno, e depois que descobri a programação essa paixão aumentou ainda mais.
+Pretendo me tornar um desenvolvedor front-end.
+Estou estudando HTML, CSS e JavaScript.
